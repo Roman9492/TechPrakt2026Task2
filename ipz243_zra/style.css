@@ -67,3 +67,9 @@ footer p {
   font-size: 14px;
   letter-spacing: 1px;
 }
+
+.news-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+}
