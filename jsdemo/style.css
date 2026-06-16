@@ -8,3 +8,8 @@ div.user div {
 div.user.selected {
     background-color: greenyellow;
 }
+
+/* Оновлено студентом ipz243_zra */
+body {
+  font-family: Arial, sans-serif;
+}
